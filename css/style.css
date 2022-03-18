@@ -1,0 +1,31 @@
+
+*{
+    font-family: cursive;
+}
+.navbar img{
+    height:2rem;
+}
+.banner h1{
+    background-color: rgb(0,0,0,0.5);
+}
+caption{
+    caption-side: top;
+    font-size:1.5rem;
+}
+
+/***/
+.banner{
+    background-image: url('../img/banner.jpg');
+    min-height: 300px;
+    background-position: center center;
+}
+.banner i{
+    font-size:0.8rem;
+}
+.card-text{
+    list-style-type:square;
+}
+.card h4{
+    border-bottom:3px dotted gray;
+    font-variant: small-caps;
+}
